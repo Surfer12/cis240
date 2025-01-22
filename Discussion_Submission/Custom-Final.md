@@ -1,3 +1,33 @@
+CIS 240: MICROCOMPUTER ARCHITECTURE & PROGRAMMING
+Lab 1: Build me a computer
+In this lab you’ll design a computer from OFS (Off The Shelf) parts. The product for this assignment is a
+document you can share with the rest of the class explaining your design decisions. Include as many
+pictures and links to sites as you can. Here’s what you should include:
+1. Say whether you are designing for a specific use computer or a general-purpose computer (or
+just a cool looking one). Explain what that means for your design.
+2. Explain your choice of case. 
+3. Explain your choice of motherboard & CPU.
+4. Explain your choice of how you cool your computer.
+5. Explain your choice of memory and hard drive/SSD.
+6. Explain your choice of power supply.
+7. Anything else you decided to add to your computer (Graphics card, etc.)
+8. If time, keyboard, display, mouse speakers...
+Please do a spread sheet or table with the cost and also include it in your computer.
+You are writing to present your design to the rest of the class. Think about your audience and try to
+make your writing clear.
+Make sure to include all of your group members’ names. First names are good enough.
+So, what is due:
+1. Your report turned in to the discussion on Canvas today 1/22. See if this link works:
+https://cuesta.instructure.com/courses/42443/discussion_topics/454065
+2. By 1/24 midnight, read at least two of your classmate’s reports and either ask a question or
+make a comment. Assuming 3-person groups (so may be changed if group size changes), if there
+are more than 5 comments already, find a different report to look at.
+To actually build a complete, working quality computer, it takes much more research than just the hour I
+am giving you. But this is not a bad way to start – It’s like a sketch on the back of a napkin... It’s a first
+pass just to get some ideas. So the goal is not to build a perfect computer, it’s to look around, play with
+the options, and have some fun. The grade is whether you turn the report in (with at least some effort)
+and whether you read some other reports and comments. (Not a score or letter grade).
+
 
 Ryan Oates
 
