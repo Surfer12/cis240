@@ -1,8 +1,6 @@
-The user wants me to create a lecture outline for microarchitecture in C, and the selection they provided is in `Lecture-1/Lecture-1.md`. The current selection is very brief and mentions "Representing Numbers and other in Binary" and "2's Complement".
+ "Representing Numbers and other in Binary" and "2's Complement".
 
-I need to expand this into a lecture outline for microarchitecture, likely starting with binary representation and 2's complement as these are fundamental concepts. Since the user mentioned "in C", I should consider how these concepts relate to C programming and potentially include code examples or topics relevant to C and microarchitecture.
-
-Here's a possible outline structure:
+ Binary 2 and Base 10
 
 1. **Introduction to Microarchitecture**
     - What is microarchitecture?
