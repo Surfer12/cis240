@@ -3,6 +3,9 @@ Lab 1: Build me a computer
 In this lab you’ll design a computer from OFS (Off The Shelf) parts. The product for this assignment is a
 document you can share with the rest of the class explaining your design decisions. Include as many
 pictures and links to sites as you can. Here’s what you should include:
+
+
+"Prompt Instructions"
 1. Say whether you are designing for a specific use computer or a general-purpose computer (or
 just a cool looking one). Explain what that means for your design.
 2. Explain your choice of case. 
@@ -27,6 +30,25 @@ am giving you. But this is not a bad way to start – It’s like a sketch on th
 pass just to get some ideas. So the goal is not to build a perfect computer, it’s to look around, play with
 the options, and have some fun. The grade is whether you turn the report in (with at least some effort)
 and whether you read some other reports and comments. (Not a score or letter grade).
+
+Case choice: Boxx APEXX W4 3500 Mid Tower custom machined aluminum creates their own custom cases for their computers, and the custom case is a part of the computer's appeal as it is durable, and aesthetically pleasing as well as heat-conductive for the computer's cooling system.
+
+Motherboard and CPU choice: The motherboard is the Intel® W790 Chipset, and the CPU is the INTEL XEON W9-3595X 2.0 GHz 60 Core Turbo 4.8 Processor. 
+
+The motherboard is a designed and specific chipset for the intel Xenon series that is designed for high-performance computing tasks associated with data center and machine learning. 
+The CPU is Intel's most 'appealing' CPU for a ' prosumer'that is designed for high-performance computing and still within budget for an individual as a workstation.
+
+Cooling choice: The cooling system is a custom liquid cooling system that is designed for high-performance computing. The cooling system is a custom liquid cooling system that is designed specifically for the Boxx APEXX W4 3500 Mid Tower so it carries advantages as it is designed for the case and configuration of the computer as a whole.
+
+Memory and hard drive/SSD choice: The memory is 1024GB DDR5-4800 MHz ECC REG (8 - 128GB DIMMS), and the hard drive/SSD is a 4.0TB SSD NVMe/PCIe 5.0 M.2 Drive. The memory is a high-performance memory that is designed for high-performance computing, and the hard drive/SSD is a high-performance hard drive/SSD that is designed for high-performance computing.
+
+The eight slot ddr5 memory allowing for eight-channel memory to offset the 'latency' of the memory compared with chips like integrated apple silicon. 
+
+This configuration following the same principles as "Sam's" group and computer set up though is a higher cost and a different specific configuration to emphasize the error correction and redundancy of the memory to preserve data integrity for 'mission critical' applications.
+
+Power supply choice: The power supply is a 1600W Power Supply. 
+
+I decided to add four monitors for multi-tasking and to allow for a more 'immersive' experience as well as a comfortable keyboard and mouse that were avaialable. 
 
 
 Ryan Oates

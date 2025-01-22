@@ -135,8 +135,24 @@
     #### 2.5.3 Two's Complement
     - Most common representation for signed integers.
     - Positive numbers are represented as in unsigned binary.
-    - Negative numbers are represented by inverting all bits of the corresponding positive number and adding 1.
+    - **Negative numbers are represented by inverting all bits of the corresponding positive number and adding 1.** This process is also known as taking the two's complement of the positive number.
     - Example: In 8-bit two's complement, +5 is 00000101, -5 is 11111011.
+        - To find the representation of -5:
+            1. Start with the binary representation of +5: 00000101
+            2. Invert all the bits: 11111010
+            3. Add 1 to the result: 11111010 + 1 = 11111011
+    - **Identifying a negative number:**
+        - **A number is negative in two's complement if its most significant bit (MSB) is 1.**
+        - To find the magnitude of a negative number:
+            1. Invert all the bits.
+            2. Add 1 to the result.
+            3. Interpret the result as an unsigned binary number. This gives the magnitude of the negative number.
+        - Example: Given the 8-bit two's complement number 11111011:
+            1. The MSB is 1, so it's a negative number.
+            2. Invert all the bits: 00000100
+            3. Add 1: 00000100 + 1 = 00000101
+            4. Interpret as unsigned binary: 00000101 = 5
+            5. Therefore, 11111011 represents -5.
     - **Advantages:**
         - Single representation for zero.
         - Addition and subtraction can be performed using the same hardware as for unsigned integers.
