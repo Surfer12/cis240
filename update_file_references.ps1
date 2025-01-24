@@ -18,16 +18,17 @@ function Update-FileReferences {
 
     $updatedFiles = 0
 
-    Get-ChildItem -Path $Path -Recurse -Include *.md | ForEach-Object {
+    # Find files with matching patterns
+    $filesToUpdate = Get-ChildItem -Path $Path -Recurse -Include *.md | Where-Object {
+        $content = Select-String -Path $_.FullName -Pattern ($replacements.Keys -join '|')
+        $content -ne $null
+    }
+
+    Write-Host "Found $($filesToUpdate.Count) files to update"
+
+    $filesToUpdate | ForEach-Object {
         $content = Get-Content $_.FullName -Raw
         $originalContent = $content
-
-        # Check for matching patterns before replacement
-        $matchingPatterns = $replacements.Keys | Where-Object { $content -match $_ }
-        if ($matchingPatterns) {
-            Write-Host "Found matching patterns in $($_.FullName):"
-            $matchingPatterns | ForEach-Object { Write-Host "  - $_" }
-        }
 
         # Replace each pattern
         foreach ($key in $replacements.Keys) {
