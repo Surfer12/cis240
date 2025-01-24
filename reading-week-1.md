@@ -7,7 +7,7 @@
 *   **Binary Addition:** Similar to decimal addition, but with only two digits (0 and 1). Carry digits are generated when the sum of digits in a column exceeds 1.
 *   **Binary Subtraction:** Similar to decimal subtraction, but borrowing is required when subtracting a larger digit from a smaller one.
 
-- "The concepts of binary addition and subtraction are fundamental to computer architecture. They are interconnected with topics like integer overflow and character encoding,"[text](binary-arithmetic-reflecton.md)
+- "The concepts of binary addition and subtraction are fundamental to computer architecture. They are interconnected with topics like integer overflow and character encoding,"[text_link](binary-arithmetic-reflecton.md)
 
 
 
