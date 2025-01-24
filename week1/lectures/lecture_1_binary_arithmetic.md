@@ -194,7 +194,7 @@
     - Recap of key concepts
     - Importance of understanding binary representation and microarchitecture for efficient C programming
 
-I will format this as a markdown outline, suitable for a lecture note in `Lecture-1/Lecture-1.md`. I will use headings and bullet points for clarity. I will also add a brief introduction and conclusion to frame the lecture.```
+I will format this as a markdown outline, suitable for a lecture note in `lecture_1/lecture_1.md`. I will use headings and bullet points for clarity. I will also add a brief introduction and conclusion to frame the lecture.```
 // Start of Selection
 # Lecture 1: Introduction to Microarchitecture and Binary Representation in C
 
@@ -379,4 +379,5 @@ Each individual wire or memory cell within the computer's intricate architecture
 Thus, the seemingly elementary concept of a wire carrying either 0v or a higher voltage (like 5v, 3.3v, or 1.8v) forms the very bedrock upon which all digital information is represented within a computer. These voltage states, interpreted as sequences of LOGIC 0s and LOGIC 1s, are the foundation of data storage, processing, and communication in the digital realm.
 
 A bit (binary digit) is one of the two values that can be stored in a computer. The physical representation of a bit can vary, but it fundamentally represents a choice between two states. These states can be represented by different voltage levels on a wire, the presence or absence of an electrical charge in a memory cell, the direction of magnetization on a magnetic disk, or the reflection or absorption of light on an optical disc.
+
 
