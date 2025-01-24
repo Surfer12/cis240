@@ -8,3 +8,4 @@ I added a spreadsheet to the document as well as a explanation of the choices I 
 Check created resources for reference during the binary conversion homework quiz that needs to be submitted. [text](../Lecture-1/hw.md), [text](../Lecture-1/problem-1.md)[text](../Lecture-1/hw_practice_one.md)
 
 
+Also reference reading week 1 for the binary conversion homework quiz. [text](../Reading-Week-1/reading-week-1.md)
