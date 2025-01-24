@@ -1,4 +1,7 @@
-A wire in a computer system serves as the fundamental conduit for transmitting information. This information is encoded in binary form, using two distinct voltage levels. Traditionally, these levels have been 0 volts (0v) and 5 volts (5v). However, advancements in technology have led to the adoption of lower voltages in modern systems to enhance energy efficiency and reduce heat generation. For instance, some systems might use 3.3v, 1.8v, or even lower voltages to represent the 'high' state.
+## Representing Information with Voltage
+### Notes from Professor's In-class Lecture
+"A wire in a computer system serves as the fundamental conduit for transmitting information. This information is encoded in binary form, using two 
+distinct voltage levels. Traditionally, these levels have been 0 volts (0v) and 5 volts (5v)."
 
 The interpretation of these voltage levels as logical states is crucial for digital computation. Let's break down the common interpretation:
 
@@ -27,3 +30,4 @@ Thus, the seemingly elementary concept of a wire carrying either 0v or a higher 
 
 A bit (binary digit) is one of the two values that can be stored in a computer. The physical representation of a bit can vary, but it fundamentally represents a choice between two states. These states can be represented by different voltage levels on a wire, the presence or absence of an electrical charge in a memory cell, the direction of magnetization on a magnetic disk, or the reflection or absorption of light on an optical disc.
 
+In each case, the underlying principle is the same: two distinct physical states are used to represent the two possible values of a bit.
